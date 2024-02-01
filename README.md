@@ -1,6 +1,6 @@
-#Privacy Policy | Политика приватности
+# Privacy Policy | Политика приватности
 
-##EN
+## EN
 This app is a game. If you play it, you give your consent to gathering of depersonalized playtime metrics, including:
 - geolocation on city level
 - level time
@@ -22,7 +22,7 @@ The online mode has text chat and nickname sharing capabilities. These are not s
 The information that you pass to other players in text chat and your nickname is your responsibility and it is not moderated.
 
 
-##RU 
+## RU 
 Это приложение представляет собой игру. Играя в нее, вы даете свое согласие на сбор обезличенных показателей игрового времени, в том числе:
 - геолокация на уровне города
 - время уровня
